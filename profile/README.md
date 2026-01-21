@@ -1,21 +1,38 @@
-Skaaltec is dedicated to improving patients’ quality of life through safe, effective, and reliable medical technologies that support neurological recovery.
+# Skaaltec
 
-Organization of the Repositories:
+**Skaaltec** is dedicated to improving patients’ quality of life through safe, effective, and reliable medical technologies that support neurological recovery.
 
-There are 3 main topics of the repository: research, product, shared. 
+---
 
-research: Contains relevant codes and files to research topics of the company
+## Repository Organization
 
-product: Contains relevant codes and files to the SmartVNS product
+Repositories are organized into **three primary topic areas**:
 
-shared: Contains codes and files that are relevant for both research and product.  
+### 🧪 Research
+Contains code and files related to research initiatives and exploratory development.
 
-Each repository shall have an associated topic(s). Persons will have access to certain topics depending on their job description. 
+### 🧠 Product
+Contains code and files related to the **SmartVNS** product.
 
-For those with access to multiple topics, you can search by:
+### 🔗 Shared
+Contains code and files used across both **research** and **product** repositories.
 
-example:
+---
 
+## Topics & Access
+
+Each repository is tagged with one or more **topics**:
+- `research`
+- `product`
+- `shared`
+
+Access to repositories is granted based on job responsibilities and associated topics.
+
+---
+
+## Searching by Topic
+
+If you have access to multiple topics, you can filter repositories using GitHub search:
+
+```text
 org:skaaltec topic:research
-
-please contact dane-donegan for any information. 
