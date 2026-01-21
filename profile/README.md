@@ -36,3 +36,8 @@ If you have access to multiple topics, you can filter repositories using GitHub 
 
 ```text
 org:skaaltec topic:research
+org:skaaltec topic:product
+org:skaaltec topic:shared
+```
+## Contact information
+dane.donegan@skaaltec.com
