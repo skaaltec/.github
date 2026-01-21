@@ -1,6 +1,6 @@
 # Skaaltec
 
-**Skaaltec** is dedicated to improving patients’ quality of life through safe, effective, and reliable medical technologies that support neurological recovery.
+**Skaaltec** is dedicated to improving patients’ quality of life through safe, effective, and reliable medical technologies that support neurological recovery. We are committed to maintaining full compliance with applicable regulatory and quality standards, including ISO 13485 and relevant global medical device regulations. Our goal is to consistently meet or exceed customer, clinical, and regulatory requirements while ensuring the highest standards of product quality, safety, and performance.
 
 ---
 
